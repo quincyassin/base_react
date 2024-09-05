@@ -9,14 +9,16 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import UseState from './UseState'
 import Style from "./Style";
+import Comment from "./Comment";
 
 //把App组件渲染到id为root的dom中。-> public/index.html 里id为root的dom
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <>
-        <App/>
-        <UseState/>
-        <Style/>
+        <Comment/>
+        {/*<App/>*/}
+        {/*<UseState/>*/}
+        {/*<Style/>*/}
     </>
 );
 

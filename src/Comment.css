@@ -1,0 +1,28 @@
+.new {
+    left: 100px;
+}
+
+.input {
+    width: 1000px;
+    height: 30px;
+}
+
+.button {
+    color: white;
+    background: lightskyblue;
+    width: 50px;
+    height: 30px;
+}
+
+.firstDiv {
+    width: 300px;
+    height: 50px;
+}
+
+.nav-item {
+    color: aqua;
+}
+
+.active {
+    color: blue;
+}
